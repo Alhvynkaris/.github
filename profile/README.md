@@ -18,3 +18,5 @@ In the project’s current state, the repositories are generally closed off whil
 ###### i fear geojson like nothing else
 
 However you help us, thank you so much for your contributions to make this… *overly* ambitious project come true!
+
+thank you for contributing!
