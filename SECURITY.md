@@ -4,5 +4,6 @@ Alert us about things like;
  - Locational or other identifying (beyond benign username, time, etc) metadata in an asset file causing a doxxing threat for a writer.
  - Image-borne malware.
  - Malicious changes to the `.obsidian` config.
+ - Anything generally malicious to user privacy or security.
 
-Thank you for your services to the security and safety of Project Alhvynkaris.
+Thank you for your services to the security and safety of Project Alhvynkaris, and thank you for contributing!
